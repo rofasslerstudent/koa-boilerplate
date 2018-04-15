@@ -25,7 +25,7 @@ $ git clone git@github.com:gsulloa/koa-boilerplate.git project
 $ cd project
 ```
 
-Setup your env vars
+Setup your env varss
 ```sh
 $ export DB_PASSWORD=securepassword
 ```
