@@ -6,7 +6,7 @@ const config = require("../config/database.js")[
 ]
 
 const basename = path.basename(module.filename)
-
+const test = 5
 const db = {}
 
 const sequelizeConfig = config.use_env_variable
