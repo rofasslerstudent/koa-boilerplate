@@ -8,7 +8,7 @@
 - Node >=8.5.0
 - Yarn >=1.0.1
 - Postgres
-
+qweqwe
 ## Installaasa
 
 Setup your database
