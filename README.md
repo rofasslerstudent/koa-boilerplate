@@ -36,7 +36,7 @@ $ nano .envrc
 # modify the env var with your data
 ```
 
-Start your server and code!a
+Start your server and code!as
 ```sh
 $ yarn dev
 ```
